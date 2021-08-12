@@ -43,7 +43,6 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/mast
 这里有两种方式进行关闭，建议选第一种
 
 1. 快捷恢复
-    
 
 ```bash
 ls /Volumes/
@@ -75,6 +74,14 @@ cd 你的用户名
 ls /Volumes/
 rm -rf /Volumes/你的系统盘/Library/Displays/Contents/Resources/Overrides
 ```
+
+在更改完成后，需要下载RDM软件修改分辨率。
+
+下载地址[在这](https://avi.alkalay.net/software/RDM/),安装后调整分辨率为1920*1080.
+
+更改完分辨率后，的确清晰了一些，但是字体也变大了，页面显示内容减少。
+
+看自己取舍吧。
 
 ## 从以下得到启发
 
